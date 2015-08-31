@@ -5,4 +5,4 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.7.0"]
                  ^{:voom {:repo "git@github.com:MichaelDrogalis/test-unison.git" :branch "master"}}
-                 [project-a "0.1.0-20150831_125708-ga8878d6"]])
+                 [project-a "0.1.0-20150831_131056-g95d9f0f"]])
