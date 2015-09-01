@@ -8,4 +8,5 @@
   :unison
   {:repos [{:git "git@github.com:MichaelDrogalis/test-unison.git"
             :branch "master"
+            :merge "develop"
             :project-file "project-b/project.clj"}]})
